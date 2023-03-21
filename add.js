@@ -1,7 +1,7 @@
-let a = 7;
+let a = 65;
 let b = 8;
 let c = a + b;
 console.log(c);
 
-let d = b - a ;
+let d = b - a;
 console.log(d);
