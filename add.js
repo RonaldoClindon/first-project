@@ -1,4 +1,4 @@
-let a = 7;
+let a = 71;
 let b = 8;
 let c = a + b;
 console.log(c);
