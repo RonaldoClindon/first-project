@@ -1,7 +1,8 @@
-let a = 65;
-let b = 8;
-let c = a + b;
+let a = [65];
+let c = a.map((c) => {
+  c += 20;
+  {
+    return c;
+  }
+});
 console.log(c);
-
-let d = b - a;
-console.log(d);
